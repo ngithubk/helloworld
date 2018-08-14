@@ -1,3 +1,3 @@
 
 
-A claasic projext for beginners
+A claasic project for beginners
