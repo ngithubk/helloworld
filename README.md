@@ -1,3 +1,3 @@
 
 
-Editing to check changes: A classic project for beginners
+Edit to check changes: A classic project for beginners
